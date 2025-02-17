@@ -1,0 +1,17 @@
+C:\Users\ButAa\Documents\GitHub\ColerEye-SRC\vibrance.GUI\bin\Debug\ColerEye.exe.config
+C:\Users\ButAa\Documents\GitHub\ColerEye-SRC\vibrance.GUI\bin\Debug\ColerEye.exe
+C:\Users\ButAa\Documents\GitHub\ColerEye-SRC\vibrance.GUI\bin\Debug\ColerEye.pdb
+C:\Users\ButAa\Documents\GitHub\ColerEye-SRC\vibrance.GUI\bin\Debug\CommonServiceLocator.dll
+C:\Users\ButAa\Documents\GitHub\ColerEye-SRC\vibrance.GUI\bin\Debug\Costura.dll
+C:\Users\ButAa\Documents\GitHub\ColerEye-SRC\vibrance.GUI\bin\Debug\Costura.pdb
+C:\Users\ButAa\Documents\GitHub\ColerEye-SRC\vibrance.GUI\bin\Debug\Costura.xml
+C:\Users\ButAa\Documents\GitHub\ColerEye-SRC\vibrance.GUI\obj\Debug\ColerEye.csproj.AssemblyReference.cache
+C:\Users\ButAa\Documents\GitHub\ColerEye-SRC\vibrance.GUI\obj\Debug\vibrance.GUI.common.ProcessExplorer.resources
+C:\Users\ButAa\Documents\GitHub\ColerEye-SRC\vibrance.GUI\obj\Debug\vibrance.GUI.common.VibranceGUI.resources
+C:\Users\ButAa\Documents\GitHub\ColerEye-SRC\vibrance.GUI\obj\Debug\vibrance.GUI.common.VibranceSettings.resources
+C:\Users\ButAa\Documents\GitHub\ColerEye-SRC\vibrance.GUI\obj\Debug\ColerEye.Properties.Resources.resources
+C:\Users\ButAa\Documents\GitHub\ColerEye-SRC\vibrance.GUI\obj\Debug\ColerEye.csproj.GenerateResource.cache
+C:\Users\ButAa\Documents\GitHub\ColerEye-SRC\vibrance.GUI\obj\Debug\ColerEye.csproj.CoreCompileInputs.cache
+C:\Users\ButAa\Documents\GitHub\ColerEye-SRC\vibrance.GUI\obj\Debug\ColerEye.csproj.Up2Date
+C:\Users\ButAa\Documents\GitHub\ColerEye-SRC\vibrance.GUI\obj\Debug\ColerEye.exe
+C:\Users\ButAa\Documents\GitHub\ColerEye-SRC\vibrance.GUI\obj\Debug\ColerEye.pdb
