@@ -28,9 +28,15 @@
 - [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer)
 
 ### Download
-
 - [Download ColorEye](https://github.com/K-M19/ColerEye/releases/download/0.1/ColerEye.zip)
+- [Virustotal](https://www.virustotal.com/gui/file/6eba57062c530e5cf70ec99b1bffa2db5282d10c9e0aba409783091c134c0651)
+  
+- MD5: ```c1602ab72a138b0e861f5b9109885783```
+- SHA-256: ```6eba57062c530e5cf70ec99b1bffa2db5282d10c9e0aba409783091c134c0651```
 
+
+<img src="https://raw.githubusercontent.com/K-M19/ColerEye/refs/heads/main/IMG/main.png">
+    
 ### Upgrades
 
 - Simplified user interface, focusing on core features.
@@ -43,3 +49,5 @@
 - Fixed rare crashes and image freezes during usage.
 - Fixed screen flickering issues that commonly occurred with older AMD graphics cards.
 - Fixed the issue where colors did not revert to their original state after closing the application.
+
+
