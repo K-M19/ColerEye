@@ -28,7 +28,7 @@
 - [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer)
 
 ### Download
-- [Download ColorEye](https://github.com/K-M19/ColerEye/releases/download/0.2/ColerEye.zip)
+- [Download ColorEye](https://github.com/K-M19/ColerEye/releases/download/1.2/ColerEye.exe)
 - [Virustotal](https://www.virustotal.com/gui/file/80122f7f5b4c3841b2e3b1b314bd0e010fda2c8ffd2c965034cbdfea9bec12d3)
   
 - MD5: ```3073BA799F9467CC0A553DC18A4F29B3```
